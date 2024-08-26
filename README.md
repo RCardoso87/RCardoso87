@@ -1,7 +1,7 @@
 <div align="center" style="display: inline_block">
 
 ## Seja bem vindo(a) ao meu perfil do GitHub!
-👋 Me chamo Rodrigo, tenho 25 anos, sou natural do Rio Grande do Sul e atualmente estou estudando Análise e Desenvolvimento de Sistemas e trabalhando como Desenvolvedor Júnior.
+👋 Me chamo Rodrigo, tenho 25 anos, sou natural do Rio Grande do Sul e atualmente estudo Análise e Desenvolvimento de Sistemas e trabalho como Desenvolvedor Júnior.
 
 <div align="center" style="display: inline_block">
 
