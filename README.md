@@ -1,7 +1,7 @@
 ### Seja bem vindo(a) ao meu perfil!
 
 - 👋 Olá, meu nome é Rodrigo!
-- 👀 Eu estou estudando e trabalhando com JavaScript e TypeScript atualmente.
+- 👀 Abaixo estão minhas redes sociais caso queira conectar-se ou me conhecer um pouco mais.
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodr.gocardoso)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cardoso-0462a1217/)
